@@ -1,4 +1,4 @@
-# DPDzero-Data-Analysis-Assignment
+# Data-Analysis-Assignment
 
 ### This data analysis has been performed as part of the case study assignment by DPDzero.
 ---
