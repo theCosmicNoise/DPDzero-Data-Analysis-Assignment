@@ -5,4 +5,4 @@
 
 Data analysis has been performed using Python with libraries pandas and matplotlib.
 
-Attachments include: Jupyter Notebook file, Dataset in csv format and Summary in pdf format.
+Attachments include: Jupyter Notebook file, Dataset in csv format and Summary in pdf.
